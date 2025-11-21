@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://www.schemastore.org/github-issue-config.json
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Request
+    url: https://github.com/artivilla/outpaint/discussions/new/choose
+    about: To request a feature, open a new Discussion or upvote an existing one if its already been requested
+  - name: "Outpaint Discord"
+    url: https://outpaint.io/docs/support
+    about: Real-time discussion and user support
