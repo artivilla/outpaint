@@ -2,6 +2,7 @@
 name: Bug Report
 about: Something not working as expected? Let us look into it.
 type: "Bug"
+labels: bug
 ---
 
 ### Description
@@ -15,6 +16,14 @@ type: "Bug"
 ### Expected Behavior
 
 <!-- A brief description of what you expected to happen. -->
+
+### To Reproduce
+
+<!--Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error-->
 
 ### Screenshots
 
