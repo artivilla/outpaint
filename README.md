@@ -1,13 +1,12 @@
-## Outpaint: An experimental onchain studio that turns verified NFTs into minimalist apparel
+## A fashion house and commerce platform for token-gated prints, wallet-based collector experiences, and creator infrastructure.
 
-Focus on your art and community; Outpaint handles token-gated verification, artist royalties, production, and shipping for premium, minimalist apparel.
+Outpaint is the fashion house for digital collectors: a premium, token-gated apparel brand that turns verified digital ownership into physical garments. It is collector-first and creator-respectful, with a system that handles token verification, rights constraints, royalties, and fulfilment.
 
 ## Releases, Issues & Feature Requests
 
-<!--**🎯 Upcoming milestones.** [Check out what we're building towards]()-->
-
-**💬 Shape the future of Outpaint with us.** [Submit a feature request](https://github.com/artivilla/outpaint/discussions)
-
 **💫 What's new?** [Check out our updates]()
+**🐛 File an issue** [on GitHub](https://github.com/artivilla/outpaint/issues)
 
-**🐛 Found a bug?** [Submit it here](https://github.com/artivilla/outpaint/issues)
+## Docs
+
+**📚 [Outpaint Documentation](https://docs.outpaint.io/docs)**

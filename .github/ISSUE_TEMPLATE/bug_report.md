@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: "🐛 Bug Report"
 about: Something not working as expected? Let us look into it.
 type: "Bug"
 labels: bug
