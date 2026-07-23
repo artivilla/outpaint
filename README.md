@@ -5,6 +5,7 @@ Outpaint is the fashion house for digital collectors: a premium, token-gated app
 ## Releases, Issues & Feature Requests
 
 **💫 What's new?** [Check out our updates]()
+
 **🐛 File an issue** [on GitHub](https://github.com/artivilla/outpaint/issues)
 
 ## Docs
